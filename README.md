@@ -4,4 +4,6 @@ This repository contains the frontend component of an interactive blog based upo
 
 # Frontend Stack
 Deployment: AWS <br />
-Frontend: React + Javascript <br />
+Backend/Controller: Python <br />
+Database: MondoDB <br />
+File System: AWS S3 <br />
